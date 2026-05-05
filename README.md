@@ -39,6 +39,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D GitHub Profile Graph" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ch-usama&show_icons=true&theme=default" alt="ch-usama" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ch-usama&layout=compact&langs_count=6" alt="Top Langs" />
 </p>
